@@ -1,2 +1,3 @@
 # perfil-de-pedidos-Restaurante
-plataforma de pedidos en restaurante gestio desde cajero chef y mesero
+plataforma de pedidos en restaurante gestion
+desde cajero chef y mesero
